@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.devnet]
-solana_rng = "BwLNj3u23Nuh8aipqpa8axPE1R45atztb5HkxesU2qLx"
+solana_rng = "FiQ4npBU1esV384MD7iV4irjVWBwHbQeDrjARoNMgCQ9"
 
 [registry]
 url = "https://api.apr.dev"
