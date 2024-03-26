@@ -32,7 +32,7 @@ describe("solana-rng", () => {
 
   it("Is initialized!", async () => {
     // Add your test here.
-    const tx = await program.methods.initializeUserState().accounts({
+    const tx = await program.methods.initializeUser().accounts({
       user: signer.publicKey,
       userState: userState,
       state,

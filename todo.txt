@@ -1,0 +1,2 @@
+comparing rng is working, need to add msg and client side text that logs
+numbers and wether player won or not.
